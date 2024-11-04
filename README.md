@@ -17,19 +17,9 @@
 <br>
 <br>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <br>
-<h3 align="center">Cloud & virtualisation Tools:</h3>
-<br>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
 
-
-
-
- <h3 align="center">Languages:</h3>
-<br> 
   <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -80,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
   </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="80" height="80"/>
+    <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg](https://th.bing.com/th/id/OIP.TOXKiz_FRr6uLkbyN8ETuQHaF7?w=500&h=400&rs=1&pid=ImgDetMain" alt="vmware" width="80" height="80"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="80" height="80"/>
