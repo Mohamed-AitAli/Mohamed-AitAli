@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aitali.mohamed.pro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qSMbWbsdfXvmU2_gwQtXvjLbCSqwSGmj/view?usp=sharing](https://drive.google.com/file/d/1qSMbWbsdfXvmU2_gwQtXvjLbCSqwSGmj/view?usp=sharing)
+- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/1qSMbWbsdfXvmU2_gwQtXvjLbCSqwSGmj/view?usp=sharing)
 
 
 <h3 align="center">Languages and Tools:</h3>
