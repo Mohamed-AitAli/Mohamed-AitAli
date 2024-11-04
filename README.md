@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ait Ali Mohamed</h1>
 
 <img align="right" width="100%" src="https://assets-global.website-files.com/654a4caad22756eef09a9ed1/654a4cabd22756eef09abccb_why-does-devops-require-shift-left-testing-principles.png">
+<br>
 <h3 align="center">A passionate Cloud & DevOps enginner from Morocco</h3>
 <img align="right" width="350" src="https://alexanderritik.github.io/Portfolio/assets/img/programmer.gif">
 
