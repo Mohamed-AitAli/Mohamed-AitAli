@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ait Ali Mohamed</h1>
+
+<img align="right" width="350" src="https://alexanderritik.github.io/Portfolio/assets/img/programmer.gif](https://th.bing.com/th/id/OIP.JdgoaaH9R0Pj3uyiFWNxlQHaD3?rs=1&pid=ImgDetMain)">
 <h3 align="center">A passionate Cloud & DevOps enginner from Morocco</h3>
 <img align="right" width="350" src="https://alexanderritik.github.io/Portfolio/assets/img/programmer.gif">
 
